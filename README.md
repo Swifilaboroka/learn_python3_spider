@@ -1,4 +1,4 @@
-
+Python crawler tutorial series, learn Python crawler from 0 to 1, browser, mobile APP packet capture, fiddler, mitmproxy, various crawler-related modules: requests, beautifulSoup, selenium, appium, scrapy, etc., IP proxy, verification code recognition, etc. Mysql, MongoDB database python use, multi-threaded multi-process crawler, css crawler encryption reverse cracking, JS crawler reverse, distributed crawler, crawler project practical examples, etc.
 # learn_python3_spider
 接下来就是，学习python的正确姿势！
 
